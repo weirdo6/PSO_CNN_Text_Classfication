@@ -1,0 +1,2 @@
+# PSO_CNN_Text_Classfication
+用PSO算法寻找CNN最佳学习率用于文本分类
